@@ -32,5 +32,5 @@ const sendMail = () => {
   console.log(a);
   a.click();
 
-  alert("pesan anda telah terkirim");
+  alert("Send Delivered :)");
 };
